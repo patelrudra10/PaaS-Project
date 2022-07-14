@@ -28,10 +28,10 @@ Things you may want to cover:
 1. Open Github Desktop
 
 * Create a new repository
-* it contains the git attributes
-* Named it as Paas
+* It should contains the git attributes
+* Named it as Paas-Project
 * Push to origin
-* Place the Pass Code inside that repositoy and commit to main.
+* Place the PaaS Code provided by sir, inside that repositoy and commit to main.
 
 2. Create an Heroku Account
 
@@ -41,12 +41,13 @@ Things you may want to cover:
 
 3. Make New App
 
-* Verfying the email
-* Create new app
-* Give any name of your choice I gave it - deployment-web
-* Dont do anything in add piple simply click the create button
+* Verify the email
+* Create new app on heroku
+* Give any name of your choice I gave it - rudra-development
+* Dont do anything in add pipe simply 
+* Click the create button
 
-4. Link To Github
+4. Link Heroku To Github
 
 * Give authorized access of Github to heroku
 * Connect the repoistory
@@ -83,51 +84,51 @@ rails db:seed
 
 # MY README
 
-7/7/22
+05/07/22
 
-1000 - Created assignemnt 3 1012- For disk I select ubuntu desktop 1020 - Configure it 1030 - Completed all step of ass 3 1230 - It took hours to load ubuntu VM desktop
+1300 - Created assignemnt 3 
+1315- For disk I select ubuntu desktop 
+1320 - Configure it 
+1325 - Completed all step of ass 3 
+1430 - It took hours to load ubuntu VM desktop
 
 I have no clue how to run ruby on it
-1330 - Downloaded ruby mine and signed in 1334 - Open the code and try to figure out what to do next
+1530 - Downloaded ruby mine and signed in 
+1532 - Open the code and try to figure out what to do next
 
 Dont understand anything at all
 13/7/22
 
-1100 - Created an heroku account 1110 - Opned the code in Visual studio code 1115 - From terminal logged intp heroku account
+1600 - Created an heroku account 
+1605 - Opened the code in Visual studio code 
+1615 - From terminal logged into heroku account
 
-I have downloaded git
-1200 - runned the command git init 1207 - It was not able to find git as internal or external source 1215 - Changed the path of git
+I had connected heroku to git
+1625 - I opened heroku saw there I can connect to github
 
-uhh taking to long i am not able to undertstand why isnt it able to find git
+tried to connect that and it got connected
 
-1245 - I opened heroku saw there I can connect to github
+1630 - From gitub created new repositoy named PaaS-Project
 
-trying to figure out i should even do that or not saw some youtube videos
+https://github.com/patelrudra10/PaaS-Project
+1635 - commited the code to that repo
 
-1315 - From gitub created new repositoy named paas
+1640 - Authorized the github in heroku
 
-https://github.com/Riyaa07/Paas
-1319 - commited the code to that repo
+1500 - conneted the repositroy and deployed it
 
-1324 - Authorized the github in heroku
+1505 - The website was giving error
 
-1400 - conneted the repositroy and deployed it
+1510 - Saw the youtube video in that they were showing to run the commands in heroku app in console.
 
-1405 - The website was giving error
-
-I saw some youtube links everyone was having migration error I was thinking to see from more that it anyone have same error as me. I got so sick of that why isnt it working???..
-Time to take a break
-
-1600 - I read pdf provied by sir
+1520 - I read pdf provided by sir
 
 Thought to run command provided in it
 
-1605 - Opend Vs code and run that command but it didnt worked out
+1530 - In youtube i saw that they run command from run console.
 
-In youtube i saw that they run command from run console.
+1535 - Finshed ruuning all commands
 
-1628 - Finshed ruuning all commands
+1548 - Signed up the app and saw 50 articles and 10 comments on each
 
-1633 - Signed up the app and saw 50 articles and 10 comments on each
-
-Thank god finally finshed!!
+Finally finshed!!
